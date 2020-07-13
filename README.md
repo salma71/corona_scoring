@@ -7,7 +7,7 @@ This is one of the **[Project ATHENA](https://athena-project.life/)**. The purpo
 
 Architechure: 
 
-![corona_scoring_architecture](images/corona_scoring_architecture.pngg)
+![corona_scoring_architecture](images/corona_scoring_architecture.png)
 
 # Tasks
 - [x] Data collection
