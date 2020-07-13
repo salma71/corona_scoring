@@ -10,7 +10,7 @@ Architechure:
 ![corona_scoring_architecture](images/corona_scoring_architecture.png)
 
 # Tasks
-- [x] Data collection
+- [x] Data collection - Thanks to [Minh Son Nguyen](son.nguyen.ohiou@gmail.com)
 - [ ] Attributes exploration
 - [ ] EDA analysis
 - [ ] Cleaning & Munging
